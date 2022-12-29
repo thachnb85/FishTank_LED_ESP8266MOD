@@ -16,6 +16,12 @@ Switching ON the LED:
      http://10.0.0.26/led/off
   ```
 
+Change mode to AUTO (Off at 9PM, On at 6AM)
+
+  ```
+     http://10.0.0.26/led/auto
+  ```
+  
 # 2. Hardware
  - ESP8266 MOD
  - LED String (5V with 5V, GND, Signal input)
